@@ -1,3 +1,3 @@
 # OOP
-2ez4rtz
-Vladimir Taraskin 10-1 DEiVI
+prikoldes
+Ilya Babankov 10-1 DEiVI
